@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Contains\ information\ about\ each\ Jeopardy\ contestant\r\n\r\n\ Morgan\ Kay\ &\ Caroline\ Phillips\r\n\ 5/5/23\r\n
+comment1.params=
+comment1.target=Person()
+comment2.params=n
+comment2.target=Person(java.lang.String)
+comment3.params=t
+comment3.target=void\ setTotal(double)
+comment4.params=
+comment4.target=double\ getTotal()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
